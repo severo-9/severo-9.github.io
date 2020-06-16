@@ -1,0 +1,17 @@
+p{
+    font-size: 20px;
+    background-color: rgba(128, 128, 128, 0.253);
+}
+nav{
+    background-color: rgba(128, 128, 128, 0.746);
+    }
+.a{
+    border: 2px solid black;
+    float: left;
+    padding: 5px 15px;
+    text-decoration: none; 
+}
+.list{
+    font-size: 20px;
+    background-color: rgba(128, 128, 128, 0.253);
+}

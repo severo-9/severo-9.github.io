@@ -1,0 +1,65 @@
+nav{
+    background-color: rgba(128, 128, 128, 0.746);
+    }
+.prikol{
+    padding-left: 25px;
+}
+.vstup{
+    background-color: rgba(128, 128, 128, 0.5);
+    padding: 15px;
+    padding-right: 25px;
+    padding-left: 25px;
+    font-family: 'Raleway', sans-serif;
+}
+hr{
+    border: none;
+    background-color: gray; 
+    height: 2px;
+}
+.a{
+    width: 100%;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+.text{ 
+    font-size: 20px;
+    border: 2px solid grey;
+    font-family: 'Ubuntu', sans-serif;
+}
+.container{
+    background-color: rgba(21, 92, 0, 0.253);
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+button:hover{
+    color: blue;
+}
+.btn{
+    border: 1px solid #333;
+    display: inline-block;
+    padding: 5px 15px;
+    text-decoration: none; 
+    color: #000;
+}
+.btn:hover{
+    box-shadow: 0 0 5px rgba(0,0,0,0.3);
+     color: white;
+    background: linear-gradient(to bottom, rgb(177, 255, 125, 0.5), rgba(60, 255, 0, 0.5));
+}
+.text{
+
+}
+footer{
+    background-color: gray;
+    color: white;
+}
+.lin{
+    text-decoration: none;
+    padding-left: 1.5rem;
+    font-size: 20px;
+    padding-bottom: 25px;
+}
+.foot{
+    color: yellowgreen;
+    font-style: italic;
+}
