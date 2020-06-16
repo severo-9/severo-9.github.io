@@ -63,3 +63,6 @@ footer{
     color: yellowgreen;
     font-style: italic;
 }
+nav li{
+font-size: 1.3rem;
+}
